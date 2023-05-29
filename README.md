@@ -1,0 +1,2 @@
+# rimed
+Rim Editor
